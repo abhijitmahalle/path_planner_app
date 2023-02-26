@@ -4,7 +4,7 @@ Simple path planning application using Dijkstra's path planning algorithm.
 
 
 <p align="center">
-  <img src="https://github.com/HrushikeshBudhale/path_planner_app/blob/main/doc/path_planner.gif?raw=0" alt="OUTPUT GIF" width="600"/>
+  <img src="https://github.com/AbhijitMahalle/path_planner_app/blob/master/img/path_planner.gif" alt="OUTPUT GIF" width="600"/>
 </p>
 
 ## Dependencies
